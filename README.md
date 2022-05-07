@@ -7,7 +7,7 @@
 
 
 ### About me
-I'm a student(for back-end) developer.
+I'm a student for full stack developer.
 
 
 <p align="center">
