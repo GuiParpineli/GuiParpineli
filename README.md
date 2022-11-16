@@ -7,7 +7,7 @@
 
 
 ### About me
-I'm a student for full stack developer.
+I'm a student for mobile and web developer.
 
 <div>
 <p align="center">
