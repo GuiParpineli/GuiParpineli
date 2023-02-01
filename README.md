@@ -7,7 +7,7 @@
 
 
 ### About me
-I'm a student for mobile and web developer.
+I'm Back End Developer.
 
 <div>
 <p align="center">
@@ -15,11 +15,11 @@ I'm a student for mobile and web developer.
     <img
       align="center"
       height="165"
-     src="https://github-readme-stats.vercel.app/api?username=guiparpineli&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&theme=radical&count_private=true">
+     src="https://github-readme-stats.vercel.app/api?username=guiparpineli&count_private=true&show_icons=true">
      <img 
      align="center"
      height="165" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&layout=compact&langs_count=7&theme=tokyonight"/>
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=tokyonight"/>
 </a>
 </div>
 <div style="display: inline_block"><br>
