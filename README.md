@@ -15,11 +15,12 @@ I'm Back End Developer.
     <img
       align="center"
       height="165"
-     src="https://github-readme-stats.vercel.app/api?username=guiparpineli&count_private=true&show_icons=true">
+     src="https://github-readme-stats.vercel.app/api?username=guiparpineli&count_private=true&show_icons=true&theme=transparent&hide_title=true">
      <img 
      align="center"
      height="165" 
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=tokyonight"/>
+     widht="200"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&range=last_7_days&hide_title=true&layout=compact">
 </a>
 </div>
 <div style="display: inline_block"><br>
@@ -32,7 +33,3 @@ I'm Back End Developer.
     <img align="center" alt="Gui-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg"> 
  </a>
  </div>
-
-
-
-
