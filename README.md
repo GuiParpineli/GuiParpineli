@@ -20,7 +20,7 @@ I'm Back End Developer.
      align="center"
      height="165" 
      widht="200"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact">
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact&langs_count=10">
 </a>
 </div>
 <div style="display: inline_block"><br>
