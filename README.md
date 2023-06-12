@@ -7,7 +7,7 @@
 
 
 ### About me
-I'm Back End Developer.
+I'm Full Stack Developer.
 
 <div>
 <p align="center">
