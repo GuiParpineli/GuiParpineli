@@ -16,10 +16,10 @@ I'm Full Stack Developer.
       align="center"
       height="165"
      src="https://github-readme-stats.vercel.app/api?username=guiparpineli&count_private=true&show_icons=true&theme=transparent&hide_title=true">
-    # <img 
-    # align="center"
-    # height="165" 
-    # widht="200"
-    # src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact&langs_count=10&hide_progress=true">
+     <img 
+     align="center"
+     height="165" 
+     widht="200"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact&langs_count=10&hide_progress=true">
 </a>
 </div>
