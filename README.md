@@ -12,11 +12,7 @@ I'm Full Stack Developer.
 <div>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  /*  <img
-      align="center"
-      height="165"
-     src="https://github-readme-stats.vercel.app/api?username=guiparpineli&count_private=true&show_icons=true&theme=transparent&hide_title=true"> */
-     <img 
+   <img 
      align="center"
      height="165" 
      widht="200"
