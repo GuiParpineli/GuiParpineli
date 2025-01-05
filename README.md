@@ -9,9 +9,17 @@
 ### About me
 I'm Full Stack Developer.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=guiparpineli" />
+<div>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+     src="https://github-readme-stats.vercel.app/api?username=guiparpineli&count_private=true&show_icons=true&theme=transparent&hide_title=true">
+     <img 
+     align="center"
+     height="165" 
+     widht="200"
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact&langs_count=5&hide_progress=false&hide=c%2B%2B,Lua,HTML,CSS,CMake">
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=guiparpineli&layout=compact&langs_count=5&card_width=320&hide=c%2B%2B,CSS,CMake,HTML,Lua" />
-</a>
+</div>
