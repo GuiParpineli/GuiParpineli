@@ -14,7 +14,7 @@ I'm Full Stack Developer.
   <a href="https://github.com/anuraghazra/github-readme-stats">
    <img 
      align="center"
-     height="165" 
+     height="100%" 
      widht="100%"
      src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact&langs_count=10&hide_progress=false">
 </a>
