@@ -20,6 +20,6 @@ I'm Full Stack Developer.
      align="center"
      height="165" 
      widht="200"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact&langs_count=5&hide_progress=false&hide=c%2B%2B,Lua,HTML,CSS,CMake">
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact&langs_count=5&hide_progress=false&hide=Lua,HTML,CSS,CMake">
 </a>
 </div>
