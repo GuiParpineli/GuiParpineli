@@ -7,7 +7,7 @@
 
 
 ### About me
-I'm a software developer with extensive experience in Java (17 & 21) and a high level of proficiency in Kotlin and Go. My favorite languages are Go and Kotlin. I'm also passionate about low-level programming and understanding how hardware works.
+I'm a software developer with extensive experience in Java (17 & 21) and a high level of proficiency in Kotlin and Go. My favorite languages are Go and Java. I'm also passionate about low-level programming and understanding how hardware works.
 
 <div>
 <p align="center">
