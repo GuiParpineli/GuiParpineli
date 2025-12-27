@@ -1,25 +1,46 @@
-# Hi, I'm Gui Parpineli!
+# Olá, eu sou Guilherme Parpineli 👋
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/guiparpineli)](https://github.com/guiparpineli)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-parpineli-81b778220/)](https://www.linkedin.com/in/guilherme-parpineli-81b778220/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/guiparpineli)](https://twitter.com/guiparpineli)
+### 🚀 Backend Developer | JVM Enthusiast | Low-Level Explorer
 
+Sou um desenvolvedor apaixonado por construir sistemas escaláveis e entender o que acontece "debaixo do capô". Minha base é o ecossistema JVM, mas transito com facilidade por diferentes stacks para resolver problemas complexos. Sou autodidata por natureza e busco constantemente entender a fundo o funcionamento interno das linguagens e protocolos.
 
+---
 
-### About me
-I'm a software developer with extensive experience in Java (17 & 21) and a high level of proficiency in Kotlin and Go. My favorite languages are Go and Java. I'm also passionate about low-level programming and understanding how hardware works.
+### 🛠️ No que eu trabalho:
 
-<div>
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      align="center"
-      height="165"
-     src="https://github-readme-stats.vercel.app/api?username=guiparpineli&count_private=true&show_icons=true&theme=transparent&hide_title=true">
-     <img 
-     align="center"
-     height="165" 
-     widht="200"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiparpineli&theme=transparent&hide_title=true&layout=compact&langs_count=5&hide_progress=false&hide=Lua,HTML,CSS,CMake">
-</a>
-</div>
+* **Java (Avançado):** Especialista no ecossistema moderno (JDK 17, 21, 25), com sólido histórico em sistemas legados (JDK 8). Domínio de Spring Boot e arquiteturas de microserviços.
+* **Kotlin (Intermediário/Avançado):** Experiência no uso de Coroutines, DSLs e desenvolvimento focado em expressividade e segurança.
+* **Go (Intermediário):** Desenvolvimento de ferramentas de alta performance, concorrência com Goroutines e foco em simplicidade.
+* **Mobile (Iniciante/Médio):** Explorando o desenvolvimento mobile para criar experiências completas ponta-a-ponta.
+
+---
+
+### 🔬 Interesses Técnicos & Estudo
+* **Performance & Internals:** Amo estudar o funcionamento da JVM, Garbage Collection e JIT Compilation.
+* **Sistemas Distribuídos:** Mensageria, consistência de dados e alta disponibilidade.
+* **Baixo Nível:** Entender como o software interage com o hardware e otimização de recursos.
+
+---
+
+### 🧰 Tech Stack:
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Linguagens** | Java, Kotlin, Go |
+| **Frameworks** | Spring Boot, Spring Cloud, Quarkus |
+| **Banco de Dados** | PostgreSQL, MongoDB, Redis |
+| **Infra/DevOps** | Docker, Kubernetes, CI/CD Pipelines |
+| **Mensageria** | Kafka, RabbitMQ |
+
+---
+
+### 📊 Estatísticas e Atividade
+
+![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
+
+---
+
+### 📫 Como me encontrar:
+
+* **LinkedIn:** [linkedin.com/in/guiparpineli](https://linkedin.com/in/guiparpineli)
