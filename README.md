@@ -11,7 +11,7 @@ Sou um desenvolvedor apaixonado por construir sistemas escaláveis e entender o 
 * **Java (Avançado):** Especialista no ecossistema moderno (JDK 17, 21, 25), com sólido histórico em sistemas legados (JDK 8). Domínio de Spring Boot e arquiteturas de microserviços.
 * **Kotlin (Intermediário/Avançado):** Experiência no uso de Coroutines, DSLs e desenvolvimento focado em expressividade e segurança.
 * **Go (Intermediário):** Desenvolvimento de ferramentas de alta performance, concorrência com Goroutines e foco em simplicidade.
-* **Mobile (Iniciante/Médio):** Explorando o desenvolvimento mobile para criar experiências completas ponta-a-ponta.
+* **Mobile (Iniciante/Intermediário):** Explorando o desenvolvimento mobile para criar experiências completas ponta-a-ponta.
 
 ---
 
