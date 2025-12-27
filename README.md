@@ -34,13 +34,6 @@ Sou um desenvolvedor apaixonado por construir sistemas escaláveis e entender o 
 
 ---
 
-### 📊 Estatísticas e Atividade
-
-![Seu Nome's GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
-
----
-
 ### 📫 Como me encontrar:
 
 * **LinkedIn:** [linkedin.com/in/guiparpineli](https://linkedin.com/in/guiparpineli)
