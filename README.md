@@ -26,8 +26,8 @@ Sou um desenvolvedor apaixonado por construir sistemas escaláveis e entender o 
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Linguagens** | Java, Kotlin, Go |
-| **Frameworks** | Spring Boot, Gin, Ktor |
+| **Linguagens** | Java, Kotlin, Rust, Go |
+| **Frameworks** | Spring Boot, Axum, Gin, Ktor |
 | **Banco de Dados** | PostgreSQL, Mysql |
 | **Infra/DevOps** | Docker, Kubernetes, CI/CD Pipelines |
 | **Mensageria** | Kafka, RabbitMQ |
